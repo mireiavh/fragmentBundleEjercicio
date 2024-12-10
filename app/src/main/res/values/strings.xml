@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragmentBundleEjercicio</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="principal_text">Ponga el texto necesario: </string>
+</resources>
